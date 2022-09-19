@@ -1,3 +1,11 @@
+Youtube link :
+https://www.youtube.com/watch?v=4oV65GVVits&list=PLMmsMRlOtQF8hqonKgQ4rPMFmOM2Wiltz
+
+Add the time by appending this :
+#t=XmYs
+For example, if you want to go back to 18m15s, do this :
+https://www.youtube.com/watch?v=4oV65GVVits&list=PLMmsMRlOtQF8hqonKgQ4rPMFmOM2Wiltz#t18m15s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
